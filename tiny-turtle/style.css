@@ -2,5 +2,6 @@ canvas{
     
     height:400px;
     width: 400px;
-    border:1px, black, solid;
+    border-width:1px;
+    border-style:solid;
 }
